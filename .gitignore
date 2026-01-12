@@ -1,0 +1,33 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Ignore OS folders
+AppData/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+OneDrive/
+Contacts/
+Music/
+Pictures/
+Saved Games/
+Videos/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Node / Python / other cache
+node_modules/
+.cache/
+.ipython/
+.jupyter/
